@@ -3,4 +3,4 @@ An enjoyable project that prepare offline files to all USB-drives which connecte
 
 ## Reference
 
-- [node-hid](https://github.com/node-hid/node-hid)
+- [node-usb](https://github.com/tessel/node-usb)
